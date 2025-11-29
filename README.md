@@ -40,6 +40,8 @@ ________________________________________
 ________________________________________
 
 **📊 Customer Segmentation Results**
+<img width="392" height="274" alt="image" src="https://github.com/user-attachments/assets/963625ca-2a64-4009-bbe9-d695859c5535" />
+
 **🟣 Segment 0 – Mass Market Users**
 •	Largest cluster
 •	Moderate credit limit (~₹33.7k)
